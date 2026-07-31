@@ -1,3 +1,4 @@
+902678958
 # Beatrice Bot — Bot de WhatsApp con Baileys
 
 Bot de WhatsApp hecho en Node.js usando [Baileys](https://github.com/WhiskeySockets/Baileys). Incluye descargas (TikTok, YouTube, Facebook, Pinterest), stickers, moderación automática (antilink, antispam, etc.), sistema de perfiles, economía, juegos y más.
